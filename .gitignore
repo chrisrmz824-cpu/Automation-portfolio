@@ -1,0 +1,17 @@
+
+DATA_FILE_CLEAN.xlsx
+*.xlsx
+*.xls
+
+
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+.env
+
+
+.DS_Store
+Thumbs.db
